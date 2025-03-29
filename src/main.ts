@@ -1,4 +1,4 @@
 import {message, showMessage} from "./types";
 
-showMessage(message, 11);
+showMessage(message, 10);
 
