@@ -12,6 +12,13 @@ Simple started for TypeScript Node.js project.
 1. Open terminal.
 1. Type, "pnpm run check".
 
+## Testing
+
+Tests are run out of the "./test" directory. Change the test script in package.json if you want to change the test directory.
+
+1. Open terminal.
+1. Type, "pnpm run test".
+
 ## Debugging
 
 1. Set breakpoints.
