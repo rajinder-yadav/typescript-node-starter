@@ -26,6 +26,12 @@ Simple started for TypeScript Node.js project.
 1. Type, "pnpm run debug".
 1. Press F5 to attach debugger.
 
+## Building
+
+1. Open terminal.
+1. Type, "pnpm run build".
+1. Type, "pnpm run start" to run the built project.
+
 ## Updating dependencies
 
 1. Open terminal.
