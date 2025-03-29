@@ -36,3 +36,11 @@ Simple started for TypeScript Node.js project.
 
 1. Open terminal.
 1. Type, "pnpm run up".
+
+## References
+
+- [Typescript tsconfig](https://www.typescriptlang.org/tsconfig/)
+- [typescript-eslint](https://typescript-eslint.io/)
+- [Node.js Modules: CommonJS](https://nodejs.org/docs/latest/api/modules.html)
+- [Node.js Modules: ECMAScript](https://nodejs.org/docs/latest/api/esm.html)
+- [TSX: TypeScript execute](https://tsx.is/)
