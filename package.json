@@ -1,10 +1,13 @@
 {
   "name": "typescript-node-starter-project",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "TypeScript Node.js starter",
   "main": "main.js",
   "scripts": {
-    "dev": "tsx watch src/main.ts"
+    "check": "tsc --noEmit",
+    "dev": "tsx watch src/main.ts",
+    "debug": "tsx watch --inspect-wait src/main.ts",
+    "up": "pnpm update --latest"
   },
   "keywords": [],
   "author": "",
