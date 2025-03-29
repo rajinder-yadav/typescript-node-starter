@@ -2,7 +2,9 @@
   "name": "typescript-node-starter-project",
   "version": "0.1.0",
   "description": "TypeScript Node.js starter",
-  "main": "main.js",
+  "main": "./dist/main.js",
+  "exports": "./dist/main.js",
+  "type": "module",
   "scripts": {
     "check": "tsc --noEmit",
     "dev": "tsx watch src/main.ts",
